@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: sqlite-pandas
+Version: 0.1.0
+Summary: pandas interface of sqlite
+Home-page: https://gitlab.com/toshiomiyamoto5555/sqlite_pandas
+Author: Toshio Miyamoto
+Author-email: toshiomiyamoto5555@gmail.com
+License: BSD-3-Clause
+Description: UNKNOWN
+Keywords: sqlite,pandas
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Topic :: Database
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
